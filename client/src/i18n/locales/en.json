@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "farms": "My Farms",
+    "crops": "Crop Management",
+    "weather": "Weather & Advisory",
+    "soilHealth": "Soil Health & NPK",
+    "pestAlerts": "Pest & Disease Alerts",
+    "marketplace": "Marketplace",
+    "orders": "My Orders",
+    "consultations": "Expert Consultation",
+    "forum": "Kisan Forum",
+    "calendar": "Farm Calendar",
+    "admin": "Admin Console",
+    "profile": "Profile & Settings",
+    "login": "Sign In",
+    "register": "Register Free",
+    "logout": "Log Out"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "subheading": "Here is what is happening across your farms and fields today.",
+    "totalFarms": "Total Registered Farms",
+    "totalCrops": "Monitored Crops",
+    "activeCycles": "Active Crop Cycles",
+    "pendingActivities": "Pending Operations",
+    "weatherHeading": "Agro-Meteorological Forecast",
+    "upcomingTasks": "Upcoming Operations & Tasks",
+    "activeCropsOverview": "Active Crops Progress",
+    "soilSnapshot": "Recent Soil Health Status",
+    "pestAlertsTitle": "Active Regional Pest Advisories",
+    "quickActions": "Quick Farm Actions",
+    "addCrop": "Add New Crop",
+    "addFarm": "Add Farm",
+    "testSoil": "Test Soil",
+    "askExpert": "Ask an Expert"
+  },
+  "farms": {
+    "title": "Farm Portfolio & Land Parcels",
+    "addNew": "Register New Farm",
+    "searchPlaceholder": "Search by farm name, city, or district...",
+    "area": "Total Area",
+    "soilType": "Predominant Soil",
+    "irrigation": "Primary Irrigation",
+    "viewDetails": "View Farm Details",
+    "noFarms": "No farms registered yet. Click 'Register New Farm' to get started."
+  },
+  "crops": {
+    "title": "Crop Monitoring & Cycles",
+    "addNew": "Register New Crop Cycle",
+    "referenceGuide": "Crop Knowledge Library",
+    "plantingDate": "Sown Date",
+    "expectedHarvest": "Target Harvest",
+    "growthStage": "Growth Stage",
+    "health": "Crop Health",
+    "yield": "Expected Yield"
+  },
+  "soil": {
+    "title": "Soil Health & NPK Macronutrient Analysis",
+    "subtitle": "Record soil metrics, receive automated educational interpretations, and optimize fertilizer amendments.",
+    "ph": "Soil pH",
+    "nitrogen": "Nitrogen (N) [kg/ha]",
+    "phosphorus": "Phosphorus (P) [kg/ha]",
+    "potassium": "Potassium (K) [kg/ha]",
+    "moisture": "Moisture (%)",
+    "organic": "Organic Matter (%)",
+    "analyzeBtn": "Calculate Soil Health & Recommendations",
+    "disclaimer": "Educational Advisory Notice: This interpretation is derived solely from farmer-entered metrics against agronomical standards. Local soil testing lab confirmation is encouraged."
+  },
+  "marketplace": {
+    "title": "Agricultural Inputs Marketplace",
+    "subtitle": "Certified high-germination seeds, organic fertilizers, precision drip components, and crop protection tools.",
+    "demoNotice": "Demonstration Marketplace: Orders placed here utilize simulated demo checkout with zero real charges.",
+    "addToCart": "Add to Cart",
+    "cart": "Shopping Cart",
+    "checkout": "Proceed to Demo Checkout",
+    "total": "Total Amount"
+  },
+  "common": {
+    "loading": "Loading data...",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "submit": "Submit",
+    "success": "Operation completed successfully",
+    "error": "An error occurred. Please try again.",
+    "status": "Status",
+    "actions": "Actions",
+    "view": "View"
+  }
+}

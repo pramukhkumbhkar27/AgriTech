@@ -1,0 +1,17 @@
+{
+  "name": "agri-tech-monorepo",
+  "version": "1.0.0",
+  "description": "Agri-Tech Smart Farming Management System (Full-Stack MERN)",
+  "scripts": {
+    "install:server": "cd server && npm install",
+    "install:client": "cd client && npm install",
+    "install:all": "npm run install:server && npm run install:client",
+    "seed": "cd server && npm run seed",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "test": "cd server && npm test"
+  },
+  "keywords": ["agritech", "smart-farming", "mern", "react", "nodejs", "mongodb"],
+  "author": "Agri-Tech Team",
+  "license": "ISC"
+}
